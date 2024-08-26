@@ -29,8 +29,8 @@ board = [
 ]
 
 grid = load_icon('Icons/white_grid.png', (WINDOW_WIDTH, WINDOW_WIDTH))
-icon_x = load_icon('Icons/x_icon.png', (PIXEL_WIDTH, PIXEL_WIDTH))
-icon_0 = load_icon('Icons/0_icon.png', (PIXEL_WIDTH, PIXEL_WIDTH))
+icon_x = load_icon('Icons/x_icon2.png', (PIXEL_WIDTH, PIXEL_WIDTH))
+icon_0 = load_icon('Icons/0_icon2.png', (PIXEL_WIDTH, PIXEL_WIDTH))
 PLAYER_1 = 0
 PLAYER_2 = 1
 player = PLAYER_1
